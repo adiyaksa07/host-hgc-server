@@ -1,0 +1,60 @@
+{
+    "env": "",
+    "apps": [
+        {
+            "name": "Cyberpunk 2077",
+            "output": "",
+            "cmd": "cmd \/c \"C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\games\\Cyberpunk2077 - Shortcut.lnk\"",
+            "exclude-global-prep-cmd": "false",
+            "elevated": "false",
+            "auto-detach": "true",
+            "wait-all": "true",
+            "exit-timeout": "5",
+            "image-path": "C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\image\\cyberpunk2077.png"
+        },
+        {
+            "name": "Forza Horizon 5",
+            "output": "",
+            "cmd": "cmd \/c \"C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\games\\ForzaHorizon5 - Shortcut.lnk\"",
+            "exclude-global-prep-cmd": "false",
+            "elevated": "false",
+            "auto-detach": "true",
+            "wait-all": "true",
+            "exit-timeout": "5",
+            "image-path": "C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\image\\forza5.png"
+        },
+        {
+            "name": "Grand Theft Auto V",
+            "output": "",
+            "cmd": "cmd \/c \"C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\games\\GTA5 - Shortcut.lnk\"",
+            "exclude-global-prep-cmd": "false",
+            "elevated": "false",
+            "auto-detach": "true",
+            "wait-all": "true",
+            "exit-timeout": "5",
+            "image-path": "C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\image\\gtav.png"
+        },
+        {
+            "name": "PES2021",
+            "output": "",
+            "cmd": "cmd \/c \"C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\games\\PES2021 - Shortcut.lnk\"",
+            "exclude-global-prep-cmd": "false",
+            "elevated": "false",
+            "auto-detach": "true",
+            "wait-all": "true",
+            "exit-timeout": "5",
+            "image-path": "C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\image\\PES 2021.png"
+        },
+        {
+            "name": "WWE2K24",
+            "output": "",
+            "cmd": "cmd \/c \"C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\games\\WWE2K24_x64 - Shortcut.lnk\"",
+            "exclude-global-prep-cmd": "false",
+            "elevated": "false",
+            "auto-detach": "true",
+            "wait-all": "true",
+            "exit-timeout": "5",
+            "image-path": "C:\\Users\\Administrator\\Downloads\\frp_0.61.2_windows_amd64\\config\\image\\WWE_2K24_Standard_Cover.png"
+        }
+    ]
+}
